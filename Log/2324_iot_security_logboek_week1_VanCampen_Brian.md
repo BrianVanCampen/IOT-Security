@@ -8,19 +8,19 @@ eerste malware met de naam Stuxnet was meteen goed geraakt in de industrie
 Aanvalen zijn moeilijk te detecteren en als dit gedetecteerd is , is de source van de aanval ook moeilijk te vinden
 in term van aanvallen word er meer gedacht aan waneer iemand aanvalt inplaats van 'als' er iemand aanvalt
 
-## Hackers en verschillen
+### Hackers en verschillen
 Er bestaan verschillende soorten hackers je hebt Blackhats (slecht doeners).
 
 je hebt Whitehats , deze mensen werken meestal bij IT-security of politie.
 
 maar je hebt ook Greyhats, deze mensen doen goed maar volgen niet altijd de wet
 
-##Wat doen Hackers?
+### Wat doen Hackers?
 
 eerste wat een hacker doet is een target vinden ze gaan zoveel info verzamelen over de target (scans)
 en proberen access te krijgen op het systeem vanaf ze toegang hebben installeren ze een backdoor om op het systeem te geraken , moest het systeem uitgeschakeld of verwijderd worden. uiteindelijk zorgt de hacker al zijn/haar sporen gewist zijn.
 
-## Soorten aanvallen
+### Soorten aanvallen
 - Passive Aanval : 
 
 deze zijn moeilijk te detecteren. data komt binnen bij de hacker en er word niets terug gestuurd
