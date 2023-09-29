@@ -36,6 +36,13 @@ makkelijker te detecteren. data komt langs beide kanten binnen
 
 Wormen, Trojan, adware, rootkit, spyware, botnet en ransomware.
 
+## stelling
+
+Stel: je evolueert de komende 10 jaar richting een cybersec professional op het vlak van IoT en richt een agentschap op. Welke specialisatie (sector, technologie,...) zou jij binnen dit veld met je agentschap willen uitbouwen? Je probeert een persoonlijk profiel op te stellen voor jezelf? 
+
+met deze stelling had ik veel last want de technologie evolueert zeer snel op een kort termijn
+
+
 ## Extra
 
 https://bugprove.com/knowledge-hub/why-is-iot-security-so-difficult/?utm_term=&utm_campaign=EU/US/CA+%7C+Search+%7C+DSA&utm_source=adwords&utm_medium=ppc&hsa_acc=6972512997&hsa_cam=20248599968&hsa_grp=151014142218&hsa_ad=661043801896&hsa_src=g&hsa_tgt=dsa-19959388920&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw69moBhBgEiwAUFCx2BcEevAvr8cbw5CFmKioOolmdIemcr3sc8KDc1U_Y4OX1ExRr7SLKhoCZCwQAvD_BwE
