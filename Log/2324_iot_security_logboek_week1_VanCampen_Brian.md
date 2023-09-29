@@ -42,6 +42,10 @@ Stel: je evolueert de komende 10 jaar richting een cybersec professional op het 
 
 met deze stelling had ik veel last want de technologie evolueert zeer snel op een kort termijn
 
+waar ik me zeker van ben is dan in 10 jaar de mogelijkheid dat mensen achter hacks zitten al heel klein word
+en dat voornaamelijk AI alles gaat doen voor een hacker dit kan 1 richting zijn van verschillende mogelijkheden
+maar als ik een specialisatie wil uitbouwen voor mezelf is het zeker op de gevaren van AI. 
+
 
 ## Extra
 
