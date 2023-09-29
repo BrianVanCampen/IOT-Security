@@ -46,7 +46,7 @@ waar ik me zeker van ben is dan in 10 jaar de mogelijkheid dat mensen achter hac
 en dat voornaamelijk AI alles gaat doen voor een hacker dit kan 1 richting zijn van verschillende mogelijkheden
 maar als ik een specialisatie wil uitbouwen voor mezelf is het zeker op de gevaren van AI.
 
-Het tracken van een hacker gaat onbestaaanbaar worden als AI overneemt.
+Het tracken van een hacker gaat onbestaanbaar worden als AI overneemt.
 
 
 ## Extra
