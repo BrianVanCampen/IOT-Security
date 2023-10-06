@@ -14,4 +14,5 @@ te vinden. We spreken hierbij over de originele data als de **plaintext** en de 
 **ciphertext**. De ontvanger van een ciphertext moet deze, als hij de juiste sleutel heeft, terug kunnen
 omzetten naar de originele plaintext.
 
-
+er word ook over decryptie gesproken in dit stuk namelijk cryptanalyse : dat is het
+proberen ontcijferen van een ciphertext zonder dat je de geheime sleutel hebt en naar mate deze evolueerd moesten cryptografische algoritmes ook verbeteren.
