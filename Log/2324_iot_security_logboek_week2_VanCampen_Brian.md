@@ -140,3 +140,39 @@ oplossen doordat er gebruikt wordt gemaakt van twee sleutels:
 - Eén private sleutel.
 De publieke sleutel kan iedereen, vrij, gebruiken om versleutelde berichten mee aan te maken. Echter,
 enkel de eigenaar van de bijhorende private sleutel zal deze berichten kunnen decrypteren.
+
+## Nation-State Attacks
+
+Het hoofdstuk "Nation-State Attacks" uit het boek "The Art of Cyberwarfare" (NoStarch Press, 2022) richt zich op een uiterst relevante en zorgwekkende kwestie in de moderne digitale wereld: cyberaanvallen uitgevoerd door nationale staten. Dit hoofdstuk biedt inzicht in de complexe en geavanceerde aard van dergelijke aanvallen, evenals de implicaties ervan voor de digitale beveiliging en geopolitieke verhoudingen.
+
+Het hoofdstuk begint met een overzicht van wat nationale staten motiveert om cyberaanvallen uit te voeren. Dit kunnen politieke, economische of militaire redenen zijn. Het bespreekt ook hoe deze aanvallen vaak worden uitgevoerd door gespecialiseerde eenheden binnen de overheid, zoals cyberlegers, en hoe ze vaak in het geheim worden uitgevoerd om de bron ervan te verbergen.
+
+Een belangrijk onderdeel van het hoofdstuk is de bespreking van de verschillende soorten cyberaanvallen die door nationale staten worden gebruikt. Dit omvat spionage, sabotage, desinformatie en zelfs aanvallen op kritieke infrastructuur. De auteurs benadrukken hoe deze aanvallen vaak zeer geavanceerd zijn en gebruik maken van zero-day kwetsbaarheden, geavanceerde malware en andere geheime technieken.
+
+Het hoofdstuk behandelt ook enkele bekende voorbeelden van nationale staat-aanvallen, zoals de Stuxnet-worm die het Iraanse nucleaire programma saboteerde en de vermeende inmenging van Rusland in de Amerikaanse verkiezingen van 2016.
+
+Een ander belangrijk punt dat in het hoofdstuk wordt behandeld, is de uitdagingen waarmee landen worden geconfronteerd bij het verdedigen tegen dergelijke aanvallen. Het wijst op het belang van internationale samenwerking en normen in het aanpakken van deze bedreigingen.
+
+Ten slotte biedt het hoofdstuk enkele aanbevelingen voor organisaties en individuen om zich te beschermen tegen nationale staat-aanvallen, zoals het regelmatig bijwerken van software, het bewust zijn van phishing-pogingen en het implementeren van sterke beveiligingspraktijken.
+
+Over het algemeen biedt het hoofdstuk "Nation-State Attacks" uit "The Art of Cyberwarfare" een diepgaand inzicht in een kritiek aspect van de hedendaagse cyberbeveiliging en benadrukt het belang van proactieve maatregelen om dergelijke dreigingen te bestrijden. Het onderstreept ook de voortdurende evolutie van cyberdreigingen en de noodzaak voor zowel overheidsinstanties als particulieren om zich voortdurend aan te passen en zich te verdedigen tegen deze geavanceerde aanvallen.
+
+## understanding threat models
+
+Het hoofdstuk "Understanding Threat Models" uit "The Car Hacker's Handbook" (NoStarch Press, 2016) biedt een essentieel inzicht in de wereld van autobeveiliging en de benadering van dreigingsmodellen in deze context. Dit hoofdstuk behandelt de volgende belangrijke punten:
+
+1. **Inleiding tot dreigingsmodellen**: Het hoofdstuk begint met een introductie van wat dreigingsmodellen zijn en waarom ze cruciaal zijn voor het begrijpen van beveiligingsrisico's. Het benadrukt het belang van het identificeren en evalueren van potentiële bedreigingen voor voertuigsystemen.
+
+2. **Aanvallers en hun motieven**: Het hoofdstuk bespreekt verschillende typen aanvallers, van nieuwsgierige onderzoekers tot kwaadwillende hackers. Het benadrukt de diverse motieven die deze aanvallers kunnen hebben, variërend van het vinden van kwetsbaarheden voor vermaak tot financieel gewin.
+
+3. **Kritieke autocomponenten**: Het hoofdstuk biedt inzicht in de belangrijkste componenten van een auto die mogelijk doelwitten zijn voor aanvallers. Dit omvat elektronische regeleenheden (ECU's), infotainmentsystemen, draadloze communicatieprotocollen en meer.
+
+4. **Vulnerabilities and Attack Surfaces**: Het benadrukt het belang van het identificeren van kwetsbaarheden en potentiële aanvalsvectoren in voertuigsystemen. Hierbij worden voorbeelden gegeven van bekende beveiligingsproblemen in auto's.
+
+5. **Impact van aanvallen**: Het hoofdstuk behandelt de mogelijke gevolgen van succesvolle aanvallen op voertuigen, waaronder fysieke schade, diefstal, privacy-inbreuken en zelfs levensbedreigende situaties.
+
+6. **Classificatie van dreigingen**: Het bespreekt verschillende categorieën dreigingen, zoals externe aanvallen via draadloze netwerken, fysieke toegang tot voertuigen en interne bedreigingen zoals kwaadwillende insiders.
+
+7. **Risicobeoordeling en mitigatie**: Het hoofdstuk sluit af met het belang van het uitvoeren van een risicobeoordeling voor voertuigbeveiliging en het implementeren van passende maatregelen om risico's te verminderen. Dit omvat het up-to-date houden van firmware en het beperken van fysieke toegang tot voertuigen.
+
+Kortom, het hoofdstuk "Understanding Threat Models" uit "The Car Hacker's Handbook" biedt een grondige basis voor het begrijpen van de beveiligingsaspecten van moderne voertuigen. Het benadrukt het belang van dreigingsmodellering en bewustwording bij het beoordelen en verbeteren van de beveiliging van voertuigen tegen potentiële aanvallen en risico's.
