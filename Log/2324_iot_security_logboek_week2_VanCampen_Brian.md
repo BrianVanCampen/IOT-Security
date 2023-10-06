@@ -176,3 +176,11 @@ Het hoofdstuk "Understanding Threat Models" uit "The Car Hacker's Handbook" (NoS
 7. **Risicobeoordeling en mitigatie**: Het hoofdstuk sluit af met het belang van het uitvoeren van een risicobeoordeling voor voertuigbeveiliging en het implementeren van passende maatregelen om risico's te verminderen. Dit omvat het up-to-date houden van firmware en het beperken van fysieke toegang tot voertuigen.
 
 Kortom, het hoofdstuk "Understanding Threat Models" uit "The Car Hacker's Handbook" biedt een grondige basis voor het begrijpen van de beveiligingsaspecten van moderne voertuigen. Het benadrukt het belang van dreigingsmodellering en bewustwording bij het beoordelen en verbeteren van de beveiliging van voertuigen tegen potentiële aanvallen en risico's.
+
+# specialicatie
+
+mijn specialisatie valt in het thema van AI en de gevaren van AI in de toekomst
+een idee waar ik veel aandacht aan heb besteed was de creatie van een Verdedigings AI dat verschillende hacker / gevaarlijke AI's tegen kan gaan
+natuurlijk moet deze heel beveiligd worden en gelimiteerd worden tot een kleine groep.
+
+dit idee kwam van United States national missile defense dat america verdedigt tegen raketen.
