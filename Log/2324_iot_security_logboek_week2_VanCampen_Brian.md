@@ -179,8 +179,8 @@ Kortom, het hoofdstuk "Understanding Threat Models" uit "The Car Hacker's Handbo
 
 # specialicatie
 
-mijn specialisatie valt in het thema van AI en de gevaren van AI in de toekomst
-een idee waar ik veel aandacht aan heb besteed was de creatie van een Verdedigings AI dat verschillende hacker / gevaarlijke AI's tegen kan gaan
+Mijn specialisatie valt in het thema van AI en de gevaren van AI in de toekomst.
+Een idee waar ik veel aandacht aan heb besteed was de creatie van een Verdedigings AI dat verschillende hacker / gevaarlijke AI's tegen kan gaan
 natuurlijk moet deze heel beveiligd worden en gelimiteerd worden tot een kleine groep.
 
-dit idee kwam van United States national missile defense dat america verdedigt tegen raketen.
+dit idee kwam van United States national missile defense dat Amerika verdedigt tegen raketen.
