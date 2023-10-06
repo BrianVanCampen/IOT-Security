@@ -157,6 +157,8 @@ Ten slotte biedt het hoofdstuk enkele aanbevelingen voor organisaties en individ
 
 Over het algemeen biedt het hoofdstuk "Nation-State Attacks" uit "The Art of Cyberwarfare" een diepgaand inzicht in een kritiek aspect van de hedendaagse cyberbeveiliging en benadrukt het belang van proactieve maatregelen om dergelijke dreigingen te bestrijden. Het onderstreept ook de voortdurende evolutie van cyberdreigingen en de noodzaak voor zowel overheidsinstanties als particulieren om zich voortdurend aan te passen en zich te verdedigen tegen deze geavanceerde aanvallen.
 
+_**gemaakt met chatGPT**_
+
 ## understanding threat models
 
 Het hoofdstuk "Understanding Threat Models" uit "The Car Hacker's Handbook" (NoStarch Press, 2016) biedt een essentieel inzicht in de wereld van autobeveiliging en de benadering van dreigingsmodellen in deze context. Dit hoofdstuk behandelt de volgende belangrijke punten:
@@ -175,7 +177,9 @@ Het hoofdstuk "Understanding Threat Models" uit "The Car Hacker's Handbook" (NoS
 
 7. **Risicobeoordeling en mitigatie**: Het hoofdstuk sluit af met het belang van het uitvoeren van een risicobeoordeling voor voertuigbeveiliging en het implementeren van passende maatregelen om risico's te verminderen. Dit omvat het up-to-date houden van firmware en het beperken van fysieke toegang tot voertuigen.
 
-Kortom, het hoofdstuk "Understanding Threat Models" uit "The Car Hacker's Handbook" biedt een grondige basis voor het begrijpen van de beveiligingsaspecten van moderne voertuigen. Het benadrukt het belang van dreigingsmodellering en bewustwording bij het beoordelen en verbeteren van de beveiliging van voertuigen tegen potentiële aanvallen en risico's.
+Kortom, het hoofdstuk "Understanding Threat Models" uit "The Car Hacker's Handbook" biedt een grondige basis voor het begrijpen van de beveiligingsaspecten van moderne voertuigen. Het benadrukt het belang van dreigingsmodellering en bewustwording bij het beoordelen en verbeteren van de beveiliging van voertuigen tegen potentiële aanvallen en risico's
+
+_**gemaakt met chatGPT**_
 
 # specialicatie
 
