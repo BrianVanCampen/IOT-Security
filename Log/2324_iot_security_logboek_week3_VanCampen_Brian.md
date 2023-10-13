@@ -34,5 +34,5 @@ dit heeft meeste van mijn problemen opgelost
 ### oefening 7
 
 werkt niet en heb geen idee waarom.
-had last met het beginen van deze opdracht.
+had last met het beginnen van deze opdracht.
 
