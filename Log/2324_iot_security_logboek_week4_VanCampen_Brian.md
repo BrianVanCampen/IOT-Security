@@ -28,3 +28,19 @@ Om verbinding te maken met een wifi-netwerk, doorloopt een gebruiker vier stappe
 Na een succesvolle authenticatie krijgt de client een associatie-ID toegewezen, waarmee het netwerk weet met welk toegangspunt (AP) de client is verbonden. Op dit punt kan de gebruiker de bronnen van het netwerk beginnen gebruiken, en het is belangrijk om de communicatie te beveiligen, tenzij het om een openbare hotspot gaat waarin alles zichtbaar is voor iedereen.
 
 Samengevat, de oorspronkelijke wifi-standaard had aanzienlijke beveiligingsproblemen, met name gerelateerd aan zwakke WEP-encryptie, waardoor het mogelijk was om snel toegang te krijgen tot bijna elk wifi-netwerk rond de eeuwwisseling.
+
+In de vroege jaren 2000 werd duidelijk dat wifi-netwerken dringend betere beveiliging nodig hadden vanwege de wijdverspreide adoptie in zowel particuliere huishoudens als bedrijven. Twee oplossingen werden ontwikkeld om zowel bestaande apparaten als toekomstige producten te beveiligen:
+
+1. **WPA1 (WiFi Protected Access 1):** Dit was een tijdelijke oplossing om de beveiligingsproblemen aan te pakken zonder de bestaande apparaten onbruikbaar te maken. WPA1 introduceerde enkele beveiligingsprotocollen, maar had enkele beperkingen.
+
+2. **WPA2 (WiFi Protected Access 2):** Dit werd beschouwd als de "ultieme oplossing" en omvatte een geheel nieuwe reeks beveiligingsprotocollen voor toekomstige wifi-producten. Het was echter niet compatibel met oudere apparaten.
+
+Beide oplossingen maakten gebruik van de IEEE 802.1X-standaard voor sleutelbeheer en gebruikersauthenticatie in combinatie met nieuwe encryptie- en integriteitsoplossingen.
+
+Om rekening te houden met de behoeften van verschillende gebruikers, werden zowel WPA1 als WPA2 in twee versies uitgebracht:
+
+- **Personal:** Dit was bedoeld voor gewone gebruikers, waarbij een gedeelde sleutel of wachtwoord (pre-shared key of PSK) werd gebruikt. Deze versie maakte geen gebruik van 802.1X.
+
+- **Enterprise:** Dit was de versie voor grote bedrijven waar sleutelbeheer en 802.1X-authenticatie belangrijk waren.
+
+Kortom, WPA1 en WPA2 waren reacties op de beveiligingsproblemen van wifi, met WPA2 als de meer geavanceerde en veiligere optie voor toekomstige wifi-producten, terwijl WPA1 een tijdelijke oplossing bood voor bestaande apparaten.
