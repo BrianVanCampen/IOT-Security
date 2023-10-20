@@ -1,3 +1,7 @@
+# Logboek Week4
+
+# cyberboswachters
+
 De opkomst van wifi-netwerken heeft geleid tot meer vrijheid voor gebruikers, maar heeft ook beveiligingsproblemen met zich meegebracht. Deze problemen omvatten:
 
 - Eavesdropping: In tegenstelling tot bekabelde netwerken, waar de communicatie via fysieke kabels verloopt, kan iedereen in de buurt draadloze signalen oppikken en bekijken wat er wordt verzonden.
@@ -44,3 +48,8 @@ Om rekening te houden met de behoeften van verschillende gebruikers, werden zowe
 - **Enterprise:** Dit was de versie voor grote bedrijven waar sleutelbeheer en 802.1X-authenticatie belangrijk waren.
 
 Kortom, WPA1 en WPA2 waren reacties op de beveiligingsproblemen van wifi, met WPA2 als de meer geavanceerde en veiligere optie voor toekomstige wifi-producten, terwijl WPA1 een tijdelijke oplossing bood voor bestaande apparaten.
+
+
+In 2018 lanceerde de Wifi Alliance de opvolger van WPA2, genaamd WPA3 (ook wel Wifi 6 genoemd). WPA3 was state-of-the-art op het gebied van beveiliging en hield rekening met de behoeften van moderne draadloze netwerken, zoals Internet of Things apparaten en beveiligde openbare hotspots. De Wifi Alliance zorgde ervoor dat producten conform IEEE-standaarden waren door ze te testen en het label "Wifi Alliance compatibel" toe te kennen.
+
+WPA3 had twee modi: personal en enterprise. Enkele belangrijke verbeteringen waren Simultaneous Authentication of Equals (SAE) voor veiligere authenticatie in de personal mode, resistentie tegen offline dictionary-aanvallen, forward secrecy om oude wifi-sleutels te beschermen, Wifi Easy Connect voor eenvoudige IoT-apparaatverbindingen, Wifi Enhanced Open voor veilige openbare hotspots, geauthenticeerde encryptie met "256-bit Galois/Counter Mode Protocol (GCMP-256)", en moderne authenticatie- en sleuteldistributiemethoden binnen 802.1X, zoals HMAC, HMAC-SHA384 en ECDH.
