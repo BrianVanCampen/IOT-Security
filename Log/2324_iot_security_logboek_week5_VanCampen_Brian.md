@@ -15,3 +15,16 @@ Je probeert vervolgens ook zoveel mogelijk informatie in te winnen over de bevei
 Extra punten om de tool (via de terminal) gebruiksvriendelijk te maken en de bekomen gegevens op te slaan in een bestand.
 
 
+**Ik ga hieronder een korte uitleg geven van hoe mijn code werkt en wat ik heb geleerd tijdens deze opdracht**
+
+Het script begint door netwerkinterfaces op te halen en deze op het scherm weer te laten zien, zodat u de juiste interface kan kiezen.
+Na u een interface heeft geselecteerd, begint de code met het vastleggen van Wi-Fi-beacon frames op die interface. 
+Beacon frames worden uitgezonden door Wi-Fi-toegangspunten om hun aanwezigheid aan te kondigen.
+
+Voor elk gedetecteerd beacon frame, wordt de informatie geëxtraheerd, waaronder de SSID (naam van het netwerk), het BSSID (MAC-adres van het toegangspunt), het kanaal en de beveiligingsstatus van het netwerk.
+
+De beveiligingsstatus wordt bepaald door het inspecteren van informatie-elementen in het beacon frame. Het programma controleert op WEP- en WPA/WPA2-beveiligingsinformatie-elementen en past de beveiligingsstatus  aan.
+
+De verzamelde informatie wordt opgeslagen in een bestand dat door de gebruiker wordt opgegeven.
+
+Het programma waarschuwt de gebruiker dat de gevonden Wi-Fi-netwerken zijn opgeslagen in het opgegeven bestand.
